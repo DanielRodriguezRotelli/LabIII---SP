@@ -1,0 +1,36 @@
+{
+  "monstruos": [
+    {
+      "id": 1688747262144,
+      "nombre": "Carlos",
+      "miedo": 100,
+      "alias": "Flacucho",
+      "defensa": "Pocima",
+      "tipo": "Esqueleto"
+    },
+    {
+      "id": 1688747286094,
+      "nombre": "Dalila",
+      "miedo": 32,
+      "alias": "Draculina",
+      "defensa": "Estaca",
+      "tipo": "Vampiro"
+    },
+    {
+      "id": 1688747310784,
+      "nombre": "Jorge",
+      "miedo": 95,
+      "alias": "Cabezon",
+      "defensa": "Crucifijo",
+      "tipo": "Zombie"
+    },
+    {
+      "id": 1688747335683,
+      "nombre": "Diana",
+      "miedo": 73,
+      "alias": "Malvada",
+      "defensa": "Pocima",
+      "tipo": "Bruja"
+    }
+  ]
+}
